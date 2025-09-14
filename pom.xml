@@ -5,8 +5,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>practice</groupId>
-    <artifactId>leetcode-top-150</artifactId>
+    <artifactId>leetcode</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <modules>
+        <module>leetcode-contests</module>
+        <module>leetcode-top-150</module>
+    </modules>
 
     <properties>
         <maven.compiler.source>24</maven.compiler.source>
