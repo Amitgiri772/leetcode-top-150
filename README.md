@@ -1,3 +1,4 @@
-﻿# leetcode-top-150
+﻿# leetcode-solutions
 
-## Solutions for https://leetcode.com/studyplan/top-interview-150/
+### Solutions for Leetcode contests
+### Solutions for https://leetcode.com/studyplan/top-interview-150/
